@@ -11,7 +11,7 @@ can.height = 600;
 var img = new Image(); 
   
 
-img.src = "spacebg.png"; 
+img.src = "https://broadcast-devices.com/wp-content/uploads/2018/08/check-icon-32x32.png"; 
   
 
 window.onload = function() { 
